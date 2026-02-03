@@ -9,7 +9,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: harbor.luban.metasync.cc/metasync/luban-hello-world-py:0.1.0
+          image: harbor.luban.metasync.cc/metasync/hello-world-py:0.1.0
           imagePullPolicy: Always
           ports:
             - name: http
