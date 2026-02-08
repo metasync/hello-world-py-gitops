@@ -18,4 +18,4 @@ images:
   - name: quay.io/luban-ci/luban-hello-world-py
     newTag: latest
   - name: harbor.luban.metasync.cc/metasync/hello-world-py
-    newTag: 5f6cb34c9ea32da1bdbfbc94b052043f1c1d85b7
+    newTag: 96166cbcb9289a7b77659d8d6f55fbd6d3f994c6
